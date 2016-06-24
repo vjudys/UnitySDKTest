@@ -1,0 +1,4 @@
+[submodule "Assets/Watson"]
+	path = Assets/Watson
+	url = https://github.com/watson-developer-cloud/unity-sdk
+	branch = develop
